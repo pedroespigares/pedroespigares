@@ -1,5 +1,5 @@
 ## About me
-Hi! I'm Pedro and I'm a Web Development student at the IES Francisco Ayala in Granada. In this profile you will find different projects that I have done during the course 👌. I hope it'll be interesting four y'all ^^.
+Hi! I'm Pedro and I'm a Web Development student at IES Francisco Ayala in Granada. In this profile you will find different projects that I have done during the course 👌. I hope it'll be interesting four y'all ^^.
 
 </br></br>
 
