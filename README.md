@@ -34,6 +34,9 @@ Hi! I'm Pedro and I'm a Web Development student at IES Francisco Ayala in Granad
         <img src="./img/css.svg" width="48" height="48" alt="CSS" />
     </td>
     <td align="center" width="96">
+        <img src="./img/git.svg" width="48" height="48" alt="Git" />
+    </td>
+    <td align="center" width="96">
         <img src="./img/kali.svg" width="48" height="48" alt="Kali Linux" />
     </td>
   </tr>
