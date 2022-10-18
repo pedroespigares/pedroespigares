@@ -1,4 +1,4 @@
-## About me
+## 📢 About me
 Hi! I'm Pedro and I'm a Web Development student at IES Francisco Ayala in Granada. In this profile you will find different projects that I have done during the course 👌. I hope it'll be interesting four y'all ^^.
 
 </br></br>
@@ -7,12 +7,12 @@ Hi! I'm Pedro and I'm a Web Development student at IES Francisco Ayala in Granad
 
 </br></br>
 
-## How many times has my profile been viewed? Well, this tells you for me
+## 👀 How many times has my profile been viewed? Well, this tells you for me
 ![Visitor Count](https://profile-counter.glitch.me/pedroespigares/count.svg)
 
 </br></br>
 
-## Technologies that I use:
+## 💻 Technologies that I use:
 <table>
   <tr>
     <td align="center" width="96">
@@ -41,5 +41,5 @@ Hi! I'm Pedro and I'm a Web Development student at IES Francisco Ayala in Granad
  
  </br></br>
 
-## Some coding memes for you ❤
+## ❤ Some coding memes for you ❤
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." style="width:50%;height:50%">
