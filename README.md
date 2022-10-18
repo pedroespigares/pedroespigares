@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile
-I'm Pedro Espigares, a Web Development student at IES Francisco Ayala in Granada.
+I'm Pedro Espigares, a Web Development student at IES Francisco Ayala in Granada.</br></br>
 ## This is what I spend my time on
 
 <!--START_SECTION:waka-->
