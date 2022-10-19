@@ -41,7 +41,6 @@ Hi! I'm Pedro and I'm a Web Development student at IES Francisco Ayala in Granad
     </td>
   </tr>
  </table>
-<img src="https://user-images.githubusercontent.com/98234152/196781606-b495ba00-33d1-4313-8d7c-a5c25cf48a73.gif"/>
 
 
  </br></br>
