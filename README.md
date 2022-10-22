@@ -39,6 +39,15 @@ Hi! I'm Pedro and I'm a Web Development student at IES Francisco Ayala in Granad
     <td align="center" width="96">
         <img src="./img/kali.svg" width="48" height="48" alt="Kali Linux" />
     </td>
+    <td align="center" width="96">
+        <img src="./img/bootstrap.svg" width="48" height="48" alt="Kali Linux" />
+    </td>
+    <td align="center" width="96">
+        <img src="./img/SASS.svg" width="48" height="48" alt="Kali Linux" />
+    </td>
+    <td align="center" width="96">
+        <img src="./img/GULP.svg" width="48" height="48" alt="Kali Linux" />
+    </td>
   </tr>
  </table>
 
