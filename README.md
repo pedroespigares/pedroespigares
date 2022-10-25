@@ -39,14 +39,31 @@ Hi! I'm Pedro and I'm a Web Development student at IES Francisco Ayala in Granad
     <td align="center" width="96">
         <img src="./img/kali.svg" width="48" height="48" alt="Kali Linux" />
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-        <img src="./img/bootstrap.svg" width="48" height="48" alt="Kali Linux" />
+        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap 5" />
     </td>
     <td align="center" width="96">
-        <img src="./img/SASS.svg" width="48" height="48" alt="Kali Linux" />
+        <img src="./img/SASS.svg" width="48" height="48" alt="SASS" />
     </td>
     <td align="center" width="96">
-        <img src="./img/GULP.svg" width="48" height="48" alt="Kali Linux" />
+        <img src="./img/GULP.svg" width="48" height="48" alt="GULP" />
+    </td>
+    <td align="center" width="96">
+        <img src="./img/vueJS.svg" width="48" height="48" alt="vueJS" />
+    </td>
+    <td align="center" width="96">
+        <img src="./img/json.svg" width="48" height="48" alt="JSON" />
+    </td>
+    <td align="center" width="96">
+        <img src="./img/nodeJS.svg" width="48" height="48" alt="nodeJS" />
+    </td>
+    <td align="center" width="96">
+        <img src="./img/angular.svg" width="48" height="48" alt="angular" />
+    </td>
+    <td align="center" width="96">
+        <img src="./img/react.svg" width="48" height="48" alt="react" />
     </td>
   </tr>
  </table>
