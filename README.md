@@ -7,11 +7,6 @@ Hi! I'm Pedro and I'm a Web Development student at IES Francisco Ayala in Granad
 
 </br></br>
 
-## 👀 How many times has my profile been viewed? Well, this tells you for me
-![Visitor Count](https://profile-counter.glitch.me/pedroespigares/count.svg)
-
-</br></br>
-
 ## 💻 Technologies that I use:
 <table>
   <tr>
